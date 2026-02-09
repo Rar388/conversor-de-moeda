@@ -1,4 +1,12 @@
-package PACKAGE_NAME;
+public class ErroConsultaApiException extends RuntimeException{
+    private String mensagem;
 
-public class ErroConsultaApiException {
+    public ErroConsultaApiException(String mensagem) {
+        this.mensagem = mensagem;
+    }
+
+    @Override
+    public String getMessage() {
+        return this.mensagem;
+    }
 }
