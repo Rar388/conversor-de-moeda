@@ -39,7 +39,7 @@ src/
 5. Execute a classe `Principal.java`.
    
 ## 📸 Demonstração em Vídeo
-Confira o funcionamento do conversor
+Confira o funcionamento do conversor:
 
 ![Demonstração do Conversor](demo.gif)
 ---
