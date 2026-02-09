@@ -41,6 +41,6 @@ src/
 ## 📸 Demonstração em Vídeo
 Confira o funcionamento do conversor
 
-![Demonstração do Conversor](img/demonstracao.gif)
+![Demonstração do Conversor](img/demo.gif)
 ---
 Desenvolvido por **Raul Douglas Oliveira Barbosa** como parte da minha jornada de aprendizado em Engenharia de Software.
